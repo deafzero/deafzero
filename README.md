@@ -10,9 +10,8 @@ ___
 - Expert on Python PHP and Linux
 - Basic on Golang, Rust, and Java 
 - Framework : Laravel
-- Medium Logic
-- Basic Hack Game
+- Basic on Hack Game
 
 
-#  Thanks for read 🙏 
+>  Thanks for read 🙏 
 
