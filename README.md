@@ -11,7 +11,9 @@ ___
 - Basic on Golang, Rust, and Java 
 - Framework : Laravel
 - Basic on Hack Game
-
+- Qa manual
+--- 
+> **Pengetahuan tidak memiliki nilai kecuali jika dipraktekkan."** – *Thomas Aquinas*  
 
 >  Thanks for read 🙏 
 
