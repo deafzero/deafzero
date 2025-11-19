@@ -1,10 +1,7 @@
 ## Welcome **brother**👋
 ### ✨ About Me :
-- Nama    : Lucas Renanda
-- City    : Nganjuk
-- School  : SMK AL - Khoiriyah Baron
-- Link Web School :https://smkakhbaron.sch.id/
-- Jurusan : Rekayasa Perangkat Lunak
+- Nama    : Lucas xxxxxxxx
+
 ___
 ### 🚀 Skills :
 - Expert on Python PHP and Linux
